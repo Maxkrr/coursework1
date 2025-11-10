@@ -6,10 +6,7 @@
 #include <limits>
 #include <algorithm>
 
-using std::cin;
-using std::cout;
-using std::vector;
-using std::string;
+using namespaces std;
 
 // === Функции линейной алгебры ===
 
